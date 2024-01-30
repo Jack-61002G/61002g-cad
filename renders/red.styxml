@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Export>
+
+  <!--Exported by Autodesk Inventor Version 28.2 Production Candidate-->
+
+  <!--The schema of this file is subject to change without notice and is not guaranteed to remain the same from one release to the next.-->
+
+  <Lighting Version="5">
+    <Style AmbientLight="0 0 0 1" AmbientOcclusion="0" Brightness="0.11" Contrast="1" DisplaySceneImage="1" EditFlag="0" Exposure="-0.59" IBLBrightness="0.4" IBLRotation="0" IBLScale="1" IBLSourceId="pretville_cinema_4k" InternalName="1:redCinemaEXR&#xA;" LightsOnOffBits="0" MoveWithModel="0" ShadowDensity="0.32" ShadowDirection="4" ShadowIntensity="0.3" ShadowSoftness="0.3" ShadowX="0.05" ShadowY="0.05" ShadowZ="-0.8" UseIBL="1">
+      <Light AmbientColor="1 1 1 1" DiffuseColor="1 0.501960814 0.501960814 1" Space="Camera" SpecularColor="1 0.501960814 0.501960814 1" Type="Directional" XDirection2="0" YDirection2="-1" ZDirection2="-6.12323e-17"/>
+      <Light AmbientColor="1 1 1 1" DiffuseColor="0 0.501960814 1 1" Space="Camera" SpecularColor="0 0.501960814 1 1" Type="Directional" XDirection2="0" YDirection2="-0.994522" ZDirection2="-0.104528"/>
+      <Light AmbientColor="1 1 1 1" DiffuseColor="1 1 1 1" Space="Camera" SpecularColor="1 1 1 1" Type="Directional" XDirection2="-0" YDirection2="-0" ZDirection2="-1"/>
+      <Light AmbientColor="1 1 1 1" DiffuseColor="1 1 1 1" Space="Camera" SpecularColor="1 1 1 1" Type="Directional" XDirection2="-0" YDirection2="-0" ZDirection2="-1"/>
+      <Name Description="" Language="1033">redCinemaEXR</Name>
+    </Style>
+  </Lighting>
+
+</Export>
